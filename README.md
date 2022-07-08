@@ -1,6 +1,6 @@
 # time-conversion
 <br />
-sebuh fungsi untuk mengubah format jam AM/PM (12 Jam) Menjadi 24 jam<br />
+#####sebuah fungsi untuk mengubah format jam AM/PM (12 Jam) Menjadi 24 jam<br />
 <br />
 &ensp; stringTime1 := "00:45:30AM"  === menjadi ===> 00:45:30<br />
 &ensp; stringTime2 := "00:45:30PM"  === menjadi ===> 12:45:30<br />
